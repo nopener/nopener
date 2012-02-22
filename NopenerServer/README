@@ -1,0 +1,1 @@
+Nopener Server is a threaded SSL enabled XML RPC server that connects directly to Nopener Core. This allows clients to run core functions remotely and securely. 
