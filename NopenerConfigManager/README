@@ -1,0 +1,1 @@
+Nopener Config Manager is the component of Nopener responsible for creating, exporting and error checking files that will be used by Nagios. Nagios Config Manager contains command line tools to export all contents from the database to Nagios files.
